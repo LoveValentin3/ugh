@@ -1,0 +1,17 @@
+{
+  "name": "north-pole-penpals",
+  "version": "1.0.0",
+  "description": "Magical Elf Pen Pal Letter Writing App for Kids",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build needed'",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "openai": "^4.24.1",
+    "stripe": "^14.9.0"
+  }
+}
